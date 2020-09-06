@@ -1,0 +1,6 @@
+C:\Users\hp2015\source\repos\NorthWind\NorthWind.DTO\bin\Debug\NorthWind.DTO.dll
+C:\Users\hp2015\source\repos\NorthWind\NorthWind.DTO\bin\Debug\NorthWind.DTO.pdb
+C:\Users\hp2015\source\repos\NorthWind\NorthWind.DTO\obj\Debug\NorthWind.DTO.csproj.CoreCompileInputs.cache
+C:\Users\hp2015\source\repos\NorthWind\NorthWind.DTO\obj\Debug\NorthWind.DTO.dll
+C:\Users\hp2015\source\repos\NorthWind\NorthWind.DTO\obj\Debug\NorthWind.DTO.pdb
+C:\Users\hp2015\source\repos\NorthWind\NorthWind.DTO\obj\Debug\NorthWind.DTO.csprojAssemblyReference.cache

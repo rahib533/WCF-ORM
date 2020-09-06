@@ -1,0 +1,12 @@
+C:\Users\hp2015\source\repos\NorthWind\NorthWind.Entity\bin\Debug\NorthWind.Entity.dll.config
+C:\Users\hp2015\source\repos\NorthWind\NorthWind.Entity\bin\Debug\NorthWind.Entity.dll
+C:\Users\hp2015\source\repos\NorthWind\NorthWind.Entity\bin\Debug\NorthWind.Entity.pdb
+C:\Users\hp2015\source\repos\NorthWind\NorthWind.Entity\bin\Debug\EntityFramework.dll
+C:\Users\hp2015\source\repos\NorthWind\NorthWind.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hp2015\source\repos\NorthWind\NorthWind.Entity\bin\Debug\EntityFramework.xml
+C:\Users\hp2015\source\repos\NorthWind\NorthWind.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hp2015\source\repos\NorthWind\NorthWind.Entity\obj\Debug\NorthWind.Entity.csprojAssemblyReference.cache
+C:\Users\hp2015\source\repos\NorthWind\NorthWind.Entity\obj\Debug\NorthWind.Entity.csproj.CoreCompileInputs.cache
+C:\Users\hp2015\source\repos\NorthWind\NorthWind.Entity\obj\Debug\NorthWind.Entity.csproj.CopyComplete
+C:\Users\hp2015\source\repos\NorthWind\NorthWind.Entity\obj\Debug\NorthWind.Entity.dll
+C:\Users\hp2015\source\repos\NorthWind\NorthWind.Entity\obj\Debug\NorthWind.Entity.pdb

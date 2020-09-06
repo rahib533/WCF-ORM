@@ -1,0 +1,5 @@
+C:\Users\hp2015\source\repos\NorthWind\NorthWind.Extension\bin\Debug\NorthWind.Extension.dll
+C:\Users\hp2015\source\repos\NorthWind\NorthWind.Extension\bin\Debug\NorthWind.Extension.pdb
+C:\Users\hp2015\source\repos\NorthWind\NorthWind.Extension\obj\Debug\NorthWind.Extension.csproj.CoreCompileInputs.cache
+C:\Users\hp2015\source\repos\NorthWind\NorthWind.Extension\obj\Debug\NorthWind.Extension.dll
+C:\Users\hp2015\source\repos\NorthWind\NorthWind.Extension\obj\Debug\NorthWind.Extension.pdb
